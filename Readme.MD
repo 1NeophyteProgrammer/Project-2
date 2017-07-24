@@ -1,8 +1,6 @@
--GACD_PeerAssessment
- -===================
  + # Getting and Cleaning Data, Peer Assessment Project
   
- -Peer Assessment Project for Coursera Course: Getting and Cleaning Data
+ - Peer Assessment Project for Coursera Course: Getting and Cleaning Data
  + ## <u>Creating a Tidy data set</u>
  + To repeat the work done in this project:
  
